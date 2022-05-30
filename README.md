@@ -20,7 +20,7 @@
   <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"><img alt="Java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></a>
 </div>
 
-# Github stats
+### Github stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xii4me&show_icons=true&theme=gruvbox" alt"Stats">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=xii4me&theme=gruvbox" alt"Streak">
