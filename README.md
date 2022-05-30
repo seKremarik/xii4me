@@ -1,17 +1,32 @@
-### Hi there 👋
-![xii4me's github stats](https://github-readme-stats.vercel.app/api?username=xii4me)
+# Hi, I'm [Sebastian Kremarik](http://sebastian-kremarik.me)
 
-<!--
-**xii4me/xii4me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me:
+- I'm just a 25 year old male studying to be a backend dev.
+- Gruvbox lover
 
-Here are some ideas to get you started:
+### Languages and Tools:
+<div> 
+  <a href="https://www.w3schools.com/html/" target="_blank"><img alt="HMTL5" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img alt="CSS" width="45px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></a>
+  <a href="https://www.java.com/es/" target="_blank"><img alt="Java" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img alt="Git" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
+  
+  <a href="https://github.com/" target="_blank"><img alt="Github" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></a>
+  <a href="https://www.jetbrains.com/es-es/idea/" target="_blank"><img alt="Github" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" /></a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Learning:
+<div>
+  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"><img alt="Java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></a>
+</div>
+
+# Github stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xii4me&show_icons=true&theme=gruvbox" alt"Stats">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=xii4me&theme=gruvbox" alt"Streak">
+</div>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=xii4me&theme=gruvbox" alt"Trophy">
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xii4me&layout=compact&theme=gruvbox" alt"Languages">
