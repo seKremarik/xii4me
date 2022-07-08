@@ -26,7 +26,5 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=xii4me&theme=gruvbox" alt"Streak">
 </div>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xii4me&theme=gruvbox" alt"Trophy">
-</div>
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xii4me&layout=compact&theme=gruvbox" alt"Languages">
+</div>
