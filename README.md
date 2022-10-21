@@ -8,7 +8,6 @@
 <div> 
   <a href="https://www.w3schools.com/html/" target="_blank"><img alt="HMTL5" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img alt="CSS" width="45px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></a>
-  <a href="https://www.java.com/es/" target="_blank"><img alt="Java" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a>
   <a href="https://git-scm.com/" target="_blank"><img alt="Git" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
   
   <a href="https://github.com/" target="_blank"><img alt="Github" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></a>
