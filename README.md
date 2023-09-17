@@ -1,7 +1,7 @@
 # Hi, I'm [Sebastian Kremarik](http://sebastian-kremarik.me)
 
 ### About me:
-- I'm just a 25 year old male studying to be a backend dev.
+- I'm just a 26 year old male studying to be a backend dev.
 - Gruvbox lover
 
 ### Languages and Tools:
@@ -21,9 +21,9 @@
 
 ### Github stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xii4me&show_icons=true&theme=gruvbox" alt"Stats">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=xii4me&theme=gruvbox" alt"Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=sekremarik&show_icons=true&theme=gruvbox" alt"Stats">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=sekremarik&theme=gruvbox" alt"Streak">
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xii4me&layout=compact&theme=gruvbox" alt"Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sekremarik&layout=compact&theme=gruvbox" alt"Languages">
 </div>
