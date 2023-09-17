@@ -1,4 +1,4 @@
-# Hi, I'm [Sebastian Kremarik](http://sebastian-kremarik.me)
+# Hi, I'm [Sebastian Kremarik](http://sebastiankremarik.engineer)
 
 ### About me:
 - I'm just a 26 year old male studying to be a backend dev.
